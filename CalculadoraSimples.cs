@@ -2,6 +2,7 @@
 {
     public class CalculadoraSimples
     {
+        //Outro comentário qualquer
         /* Método para Adicionar 2 números */
         public int Adicionar(int num1, int num2)
         {
